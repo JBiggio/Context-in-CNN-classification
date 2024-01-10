@@ -1,4 +1,4 @@
-# The-role-of-context-in-classification-tasks-with-CNN
+# Context's role in CNN classification tasks
 This GitHub repository explores the enhancement of Convolutional Neural Networks (CNNs) in object classification tasks by mimicking human-like contextual understanding. It addresses the challenge of CNNs struggling to contextualize objects within their environment. The project investigates the influence of contextual information on CNN performance using a subset of the iNaturalist dataset, defining "context" as the surroundings of an animal in an image. 
 Two research questions are the focal points of this project:
 
